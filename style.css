@@ -10,9 +10,7 @@ body {
     color: #b1b1b1;
     font-style: uppercase;
     text-transform: uppercase;
-    
 }
-.navNation {
- 
-
+.headerLinkList__logo {
+    width: 7em;
 }
