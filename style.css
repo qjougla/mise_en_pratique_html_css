@@ -5,7 +5,7 @@ body {
     display: flex;
     background-color: #f3f3f3;
 }
-.headerNation__title {
+.headerNation__info {
     margin-right: 25em;
     color: #b1b1b1;
     font-style: uppercase;
@@ -13,4 +13,7 @@ body {
 }
 .headerLinkList__logo {
     width: 7em;
+}
+.headerBackground {
+    background:  url("img/BGHeader.jpg");
 }
